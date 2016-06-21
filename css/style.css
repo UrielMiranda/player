@@ -1,0 +1,22 @@
+body{
+  background-color: #5ADCD9;
+}
+div{
+  padding: 50px;
+}
+button{
+  background-color: #1EB2B2;
+  width: 60px;
+  height: 20px;
+  color: white;
+  border-radius: 20px;
+  border: 0;
+}
+img{
+  width: 200px;
+  margin-left: -30px;
+}
+.item{
+  margin: 0 auto;
+  text-align: center;
+}
